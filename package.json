@@ -1,0 +1,30 @@
+{
+  "name": "middleware",
+  "version": "1.0.0",
+  "description": "IoT middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bcrypt": "^3.0.2",
+    "bluebird": "^3.5.3",
+    "body-parser": "^1.18.3",
+    "coap": "^0.22.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4",
+    "express-jwt": "^5.3.1",
+    "express-session": "^1.15.6",
+    "jsonwebtoken": "^8.4.0",
+    "kafka-node": "^3.0.1",
+    "mongoose": "^5.3.13",
+    "mosca": "^2.8.3",
+    "mqtt": "^2.18.8",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0"
+  }
+}
